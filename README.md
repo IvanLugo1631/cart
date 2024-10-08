@@ -6,7 +6,7 @@ This Python application allows users to manage meeting schedules by checking ava
 
 1. **Clone the Repository**
    ```bash
-   git https://github.com/IvanLugo1631/cart
+   git clone https://github.com/IvanLugo1631/cart
    cd <repository-name>
    code .
 
