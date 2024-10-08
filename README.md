@@ -26,8 +26,8 @@ This Python application allows users to manage meeting schedules by checking ava
   
   View Available Slots
   The application will output available slots for scheduling meetings based on the specified duration.
-  Verify Another Schedule List (Optional)
-  
+
+   Verify Another Schedule List (Optional)
   After viewing the available slots, you can choose to verify another schedule list by responding to the prompt.
 ```
 # License
